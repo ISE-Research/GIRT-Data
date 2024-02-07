@@ -130,7 +130,7 @@ Wordcloud of IRTs in Markdown format
 </p>
 
 ## Citation
-The dataset is accepted for [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase) conference, under the title of "GIRT-Data: Sampling GitHub Issue Report Templates".
+The dataset is published in [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase) conference, under the title of "GIRT-Data: Sampling GitHub Issue Report Templates".
 
 ```python
 @inproceedings{nikeghbal2023girt,
